@@ -21,8 +21,8 @@ Smart Study Buddy is an AI-powered web application that helps students study. Us
 7. Open `http://127.0.0.1:5000` in your browser.
 
 ## Contributions
-- **[Your Name]:** Backend development, AI integration, database setup.
-- **[Partner's Name]:** Frontend UI design, testing, and documentation.
+- **[Kipruto, Robert]:** Backend development, AI integration, database setup.
+- **[Shafer, Cassidey J]:** Frontend UI design, testing, and documentation.
 
 ## Known Limitations
 - The app currently only generates questions, not answers.
